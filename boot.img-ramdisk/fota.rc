@@ -1,6 +1,5 @@
 on init
-    
-    # kernel log disable
+
     mkdir /debug
     mount debugfs debugfs /debug
 
